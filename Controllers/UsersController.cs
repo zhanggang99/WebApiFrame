@@ -4,6 +4,8 @@ using WebApiFrame.Models;
 
 namespace WebApiFrame.Controllers{
 
+
+    [Route("api/[controller]")]
     public class UsersController:Microsoft.AspNetCore.Mvc.Controller{
         [RouteAttribute("{id}")]
         public IActionResult Get(int id){
