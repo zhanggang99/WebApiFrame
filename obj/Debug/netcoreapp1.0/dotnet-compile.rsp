@@ -164,4 +164,7 @@
 d:\webapi\WebApiFrame\Program.cs
 d:\webapi\WebApiFrame\Startup.cs
 d:\webapi\WebApiFrame\Controllers\UsersController.cs
+d:\webapi\WebApiFrame\DAL\BlogInfoSQLDal.cs
+d:\webapi\WebApiFrame\DAL\IBlogInfoDal.cs
+d:\webapi\WebApiFrame\Models\BlogInfo.cs
 d:\webapi\WebApiFrame\Models\User.cs
