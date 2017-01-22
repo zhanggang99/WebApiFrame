@@ -23,3 +23,276 @@
 2017-01-22 09:36:38.2764|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22CS5I849K" sending FIN. 
 2017-01-22 09:36:38.2921|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22CS5I849K" sent FIN with status "0". 
 2017-01-22 09:36:38.3077|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22CS5I849K" stopped. 
+2017-01-22 09:41:32.3877|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22CS5I849L" received FIN. 
+2017-01-22 09:41:32.4033|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22CS5I849L" disconnecting. 
+2017-01-22 09:41:32.4033|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22CS5I849L" sending FIN. 
+2017-01-22 09:41:32.4190|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22CS5I849L" sent FIN with status "0". 
+2017-01-22 09:41:32.4190|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22CS5I849L" stopped. 
+2017-01-22 09:45:12.0371|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting shutdown 
+2017-01-22 09:45:16.4210|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting starting 
+2017-01-22 09:45:16.5221|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting started 
+2017-01-22 09:45:19.8155|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D19BL66H" started. 
+2017-01-22 09:45:19.8155|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D19BL66G" started. 
+2017-01-22 09:45:19.9015|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:5000/api/users/1   
+2017-01-22 09:45:19.9446|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 56.6031ms 200  
+2017-01-22 09:45:19.9566|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D19BL66H" completed keep alive response. 
+2017-01-22 09:46:06.8583|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D19BL66G" received FIN. 
+2017-01-22 09:46:06.8739|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D19BL66G" disconnecting. 
+2017-01-22 09:46:06.8895|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D19BL66G" sending FIN. 
+2017-01-22 09:46:06.9051|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D19BL66G" sent FIN with status "0". 
+2017-01-22 09:46:06.9208|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D19BL66G" stopped. 
+2017-01-22 09:49:46.8180|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting shutdown 
+2017-01-22 09:49:46.8649|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D19BL66H" disconnecting. 
+2017-01-22 09:49:46.8649|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D19BL66H" sending FIN. 
+2017-01-22 09:49:46.8649|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D19BL66H" sent FIN with status "0". 
+2017-01-22 09:49:46.8805|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D19BL66H" stopped. 
+2017-01-22 09:49:50.0264|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting starting 
+2017-01-22 09:49:50.1344|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting started 
+2017-01-22 09:50:07.2469|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D3V0QJMK" started. 
+2017-01-22 09:50:07.2469|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D3V0QJMJ" started. 
+2017-01-22 09:50:07.3598|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:5000/api/users/1   
+2017-01-22 09:50:07.4067|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 56.9122ms 200  
+2017-01-22 09:50:07.4067|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D3V0QJMK" completed keep alive response. 
+2017-01-22 09:51:18.9955|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D3V0QJMJ" received FIN. 
+2017-01-22 09:51:18.9955|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D3V0QJMJ" disconnecting. 
+2017-01-22 09:51:19.0055|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D3V0QJMJ" sending FIN. 
+2017-01-22 09:51:19.0055|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D3V0QJMJ" sent FIN with status "0". 
+2017-01-22 09:51:19.0175|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D3V0QJMJ" stopped. 
+2017-01-22 09:55:23.4596|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D3V0QJMK" received FIN. 
+2017-01-22 09:55:23.4726|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D3V0QJMK" disconnecting. 
+2017-01-22 09:55:23.4836|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D3V0QJMK" sending FIN. 
+2017-01-22 09:55:23.4836|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D3V0QJMK" sent FIN with status "0". 
+2017-01-22 09:55:23.4976|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D3V0QJMK" stopped. 
+2017-01-22 09:55:25.8012|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting shutdown 
+2017-01-22 09:55:28.7452|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting starting 
+2017-01-22 09:55:28.8423|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting started 
+2017-01-22 09:55:42.4869|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D72TT40U" started. 
+2017-01-22 09:55:42.4869|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D72TT40V" started. 
+2017-01-22 09:55:42.6000|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:5000/api/users/1   
+2017-01-22 09:55:42.6520|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 76.5693ms 200  
+2017-01-22 09:55:42.6520|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D72TT40V" completed keep alive response. 
+2017-01-22 09:56:31.0835|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D72TT40U" received FIN. 
+2017-01-22 09:56:31.0895|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D72TT40U" disconnecting. 
+2017-01-22 09:56:31.0895|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D72TT40U" sending FIN. 
+2017-01-22 09:56:31.0895|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D72TT40U" sent FIN with status "0". 
+2017-01-22 09:56:31.1086|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D72TT40U" stopped. 
+2017-01-22 09:56:53.2555|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting shutdown 
+2017-01-22 09:56:53.3023|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D72TT40V" disconnecting. 
+2017-01-22 09:56:53.3023|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D72TT40V" sending FIN. 
+2017-01-22 09:56:53.3023|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D72TT40V" sent FIN with status "0". 
+2017-01-22 09:56:53.3179|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D72TT40V" stopped. 
+2017-01-22 09:56:56.2634|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting starting 
+2017-01-22 09:56:56.3665|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting started 
+2017-01-22 09:56:57.7873|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D7PC199D" started. 
+2017-01-22 09:56:57.7873|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D7PC199E" started. 
+2017-01-22 09:56:57.8680|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:5000/api/users/1   
+2017-01-22 09:56:57.8993|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 53.9585ms 200  
+2017-01-22 09:56:57.9149|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D7PC199E" completed keep alive response. 
+2017-01-22 09:56:58.9447|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:5000/api/users/1   
+2017-01-22 09:56:58.9497|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 5.1483ms 200  
+2017-01-22 09:56:58.9497|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D7PC199E" completed keep alive response. 
+2017-01-22 09:57:06.4840|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:5000/api   
+2017-01-22 09:57:06.4840|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 4.3928ms 200  
+2017-01-22 09:57:06.4840|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D7PC199E" completed keep alive response. 
+2017-01-22 09:57:08.6335|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D7PC199D" received FIN. 
+2017-01-22 09:57:08.6491|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D7PC199D" disconnecting. 
+2017-01-22 09:57:08.6491|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D7PC199D" sending FIN. 
+2017-01-22 09:57:08.6647|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D7PC199D" sent FIN with status "0". 
+2017-01-22 09:57:08.6647|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D7PC199D" stopped. 
+2017-01-22 09:57:40.6561|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting shutdown 
+2017-01-22 09:57:40.6961|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D7PC199E" disconnecting. 
+2017-01-22 09:57:40.7031|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D7PC199E" sending FIN. 
+2017-01-22 09:57:40.7031|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D7PC199E" sent FIN with status "0". 
+2017-01-22 09:57:40.7031|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D7PC199E" stopped. 
+2017-01-22 09:57:43.6409|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting starting 
+2017-01-22 09:57:43.7671|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting started 
+2017-01-22 09:57:44.4516|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D87923I9" started. 
+2017-01-22 09:57:44.4516|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D87923IA" started. 
+2017-01-22 09:57:44.5377|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:5000/api   
+2017-01-22 09:57:44.5797|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 55.554ms 200  
+2017-01-22 09:57:44.5907|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D87923IA" completed keep alive response. 
+2017-01-22 09:57:59.5013|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D87923I9" received FIN. 
+2017-01-22 09:57:59.5104|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D87923I9" disconnecting. 
+2017-01-22 09:57:59.5104|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D87923I9" sending FIN. 
+2017-01-22 09:57:59.5274|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D87923I9" sent FIN with status "0". 
+2017-01-22 09:57:59.5274|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D87923I9" stopped. 
+2017-01-22 09:58:10.0209|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D87923IB" started. 
+2017-01-22 09:58:10.0369|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:5000/api   
+2017-01-22 09:58:10.0449|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 8.5297ms 200  
+2017-01-22 09:58:10.0449|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D87923IA" completed keep alive response. 
+2017-01-22 09:58:12.2565|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting shutdown 
+2017-01-22 09:58:12.2915|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D87923IA" disconnecting. 
+2017-01-22 09:58:12.2915|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D87923IB" disconnecting. 
+2017-01-22 09:58:12.2915|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D87923IA" sending FIN. 
+2017-01-22 09:58:12.2915|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D87923IB" sending FIN. 
+2017-01-22 09:58:12.3075|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D87923IB" sent FIN with status "0". 
+2017-01-22 09:58:12.3075|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D87923IB" stopped. 
+2017-01-22 09:58:12.3075|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D87923IA" sent FIN with status "0". 
+2017-01-22 09:58:12.3075|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D87923IA" stopped. 
+2017-01-22 09:58:15.3149|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting starting 
+2017-01-22 09:58:15.4099|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D8GGA4I1" started. 
+2017-01-22 09:58:15.4239|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D8GGA4I2" started. 
+2017-01-22 09:58:15.4319|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting started 
+2017-01-22 09:58:15.4900|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:5000/api   
+2017-01-22 09:58:15.5350|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 58.4564ms 200  
+2017-01-22 09:58:15.5460|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D8GGA4I1" completed keep alive response. 
+2017-01-22 09:58:15.6541|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D8GGA4I3" started. 
+2017-01-22 09:59:07.1278|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D8GGA4I2" received FIN. 
+2017-01-22 09:59:07.1278|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D8GGA4I3" received FIN. 
+2017-01-22 09:59:07.1434|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D8GGA4I2" disconnecting. 
+2017-01-22 09:59:07.1590|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D8GGA4I3" disconnecting. 
+2017-01-22 09:59:07.1746|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D8GGA4I2" sending FIN. 
+2017-01-22 09:59:07.1746|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D8GGA4I3" sending FIN. 
+2017-01-22 09:59:07.1902|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D8GGA4I2" sent FIN with status "0". 
+2017-01-22 09:59:07.1902|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D8GGA4I3" sent FIN with status "0". 
+2017-01-22 09:59:07.1902|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D8GGA4I2" stopped. 
+2017-01-22 09:59:07.1902|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D8GGA4I3" stopped. 
+2017-01-22 10:03:21.8835|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D8GGA4I1" received FIN. 
+2017-01-22 10:03:21.8945|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D8GGA4I1" disconnecting. 
+2017-01-22 10:03:21.9005|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D8GGA4I1" sending FIN. 
+2017-01-22 10:03:21.9005|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D8GGA4I1" sent FIN with status "0". 
+2017-01-22 10:03:21.9005|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22D8GGA4I1" stopped. 
+2017-01-22 14:53:54.9881|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting starting 
+2017-01-22 14:53:55.1131|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting started 
+2017-01-22 14:54:03.7425|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IDPTJ394" started. 
+2017-01-22 14:54:03.7425|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IDPTJ395" started. 
+2017-01-22 14:54:03.8296|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:5000/api   
+2017-01-22 14:54:03.8746|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 57.1672ms 200  
+2017-01-22 14:54:03.8846|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IDPTJ395" completed keep alive response. 
+2017-01-22 14:54:38.4270|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IDPTJ394" received FIN. 
+2017-01-22 14:54:38.4270|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IDPTJ394" disconnecting. 
+2017-01-22 14:54:38.4470|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IDPTJ394" sending FIN. 
+2017-01-22 14:54:38.4610|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IDPTJ394" sent FIN with status "0". 
+2017-01-22 14:54:38.4730|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IDPTJ394" stopped. 
+2017-01-22 14:58:05.0070|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting shutdown 
+2017-01-22 14:58:05.0500|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IDPTJ395" disconnecting. 
+2017-01-22 14:58:05.0561|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IDPTJ395" sending FIN. 
+2017-01-22 14:58:05.0561|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IDPTJ395" sent FIN with status "0". 
+2017-01-22 14:58:05.0561|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IDPTJ395" stopped. 
+2017-01-22 14:58:08.3103|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting starting 
+2017-01-22 14:58:08.4194|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting started 
+2017-01-22 14:58:12.1572|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IG3UL89I" started. 
+2017-01-22 14:58:12.1572|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IG3UL89H" started. 
+2017-01-22 14:58:12.2423|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:5000/test   
+2017-01-22 14:58:12.2893|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 59.7552ms 200  
+2017-01-22 14:58:12.3003|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IG3UL89I" completed keep alive response. 
+2017-01-22 14:58:39.1210|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IG3UL89H" received FIN. 
+2017-01-22 14:58:39.1210|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IG3UL89H" disconnecting. 
+2017-01-22 14:58:39.1210|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IG3UL89H" sending FIN. 
+2017-01-22 14:58:39.1390|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IG3UL89H" sent FIN with status "0". 
+2017-01-22 14:58:39.1390|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IG3UL89H" stopped. 
+2017-01-22 15:00:20.5717|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IG3UL89J" started. 
+2017-01-22 15:00:20.5797|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:5000/testff   
+2017-01-22 15:00:20.5797|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 4.5265ms 404  
+2017-01-22 15:00:20.5947|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IG3UL89I" completed keep alive response. 
+2017-01-22 15:00:39.0571|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IG3UL89J" received FIN. 
+2017-01-22 15:00:39.0701|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IG3UL89J" disconnecting. 
+2017-01-22 15:00:39.0821|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IG3UL89J" sending FIN. 
+2017-01-22 15:00:39.0821|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IG3UL89J" sent FIN with status "0". 
+2017-01-22 15:00:39.0961|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IG3UL89J" stopped. 
+2017-01-22 15:05:21.1026|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IG3UL89I" received FIN. 
+2017-01-22 15:05:21.1026|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IG3UL89I" disconnecting. 
+2017-01-22 15:05:21.1167|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IG3UL89I" sending FIN. 
+2017-01-22 15:05:21.1167|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IG3UL89I" sent FIN with status "0". 
+2017-01-22 15:05:21.1297|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IG3UL89I" stopped. 
+2017-01-22 15:23:37.0734|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting shutdown 
+2017-01-22 15:23:40.6230|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting starting 
+2017-01-22 15:23:40.7561|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting started 
+2017-01-22 15:23:48.5036|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IUDQCV63" started. 
+2017-01-22 15:23:48.5036|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IUDQCV64" started. 
+2017-01-22 15:23:48.6047|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:5000/testff   
+2017-01-22 15:23:48.6337|WebApiFrame.VisitLogMiddleware|INFO|VisitLog:Url: /testff,
+Headers: [{"Cache-Control":"max-age=0"},{"Connection":"keep-alive"},{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"},{"Accept-Encoding":"gzip, deflate, sdch, br"},{"Accept-Language":"zh-CN,zh;q=0.8"},{"Cookie":"ASP.NET_SessionId=3dej5lyebammie0srsliyopj"},{"Host":"localhost:5000"},{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.59 Safari/537.36 Vivaldi/1.7.725.3"},{"Upgrade-Insecure-Requests":"1"}],
+Method: http,
+RequestBody: ,
+ExcuteStartTime: 0001-01-01 00:00:00.000,
+ExcuteStartTime: 2017-01-22 15:23:48.629 
+2017-01-22 15:23:48.6337|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 55.698ms 404  
+2017-01-22 15:23:48.6788|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IUDQCV64" completed keep alive response. 
+2017-01-22 15:23:52.4855|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:5000/   
+2017-01-22 15:23:52.4855|WebApiFrame.VisitLogMiddleware|INFO|VisitLog:Url: /,
+Headers: [{"Connection":"keep-alive"},{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"},{"Accept-Encoding":"gzip, deflate, sdch, br"},{"Accept-Language":"zh-CN,zh;q=0.8"},{"Cookie":"ASP.NET_SessionId=3dej5lyebammie0srsliyopj"},{"Host":"localhost:5000"},{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.59 Safari/537.36 Vivaldi/1.7.725.3"},{"Upgrade-Insecure-Requests":"1"}],
+Method: http,
+RequestBody: ,
+ExcuteStartTime: 0001-01-01 00:00:00.000,
+ExcuteStartTime: 2017-01-22 15:23:52.489 
+2017-01-22 15:23:52.5015|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 16.4355ms 404  
+2017-01-22 15:23:52.5015|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IUDQCV64" completed keep alive response. 
+2017-01-22 15:24:03.2243|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IUDQCV63" received FIN. 
+2017-01-22 15:24:03.2412|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IUDQCV63" disconnecting. 
+2017-01-22 15:24:03.2573|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IUDQCV63" sending FIN. 
+2017-01-22 15:24:03.2573|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IUDQCV63" sent FIN with status "0". 
+2017-01-22 15:24:03.2813|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IUDQCV63" stopped. 
+2017-01-22 15:24:39.6864|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting shutdown 
+2017-01-22 15:24:39.7244|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IUDQCV64" disconnecting. 
+2017-01-22 15:24:39.7295|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IUDQCV64" sending FIN. 
+2017-01-22 15:24:39.7295|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IUDQCV64" sent FIN with status "0". 
+2017-01-22 15:24:39.7295|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IUDQCV64" stopped. 
+2017-01-22 15:24:42.7076|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting starting 
+2017-01-22 15:24:42.7997|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting started 
+2017-01-22 15:24:49.3934|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IUVV3BEO" started. 
+2017-01-22 15:24:49.3934|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IUVV3BEP" started. 
+2017-01-22 15:24:49.4845|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:5000/   
+2017-01-22 15:24:49.5135|WebApiFrame.VisitLogMiddleware|INFO|VisitLog:Url: /,
+Headers: [{"Cache-Control":"max-age=0"},{"Connection":"keep-alive"},{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"},{"Accept-Encoding":"gzip, deflate, sdch, br"},{"Accept-Language":"zh-CN,zh;q=0.8"},{"Cookie":"ASP.NET_SessionId=3dej5lyebammie0srsliyopj"},{"Host":"localhost:5000"},{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.59 Safari/537.36 Vivaldi/1.7.725.3"},{"Upgrade-Insecure-Requests":"1"}],
+Method: http,
+RequestBody: ,
+ExcuteStartTime: 0001-01-01 00:00:00.000,
+ExcuteStartTime: 2017-01-22 15:24:49.509 
+2017-01-22 15:24:49.5245|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 54.411ms 404  
+2017-01-22 15:24:49.5575|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IUVV3BEP" completed keep alive response. 
+2017-01-22 15:25:50.7005|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IUVV3BEO" received FIN. 
+2017-01-22 15:25:50.7265|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IUVV3BEO" disconnecting. 
+2017-01-22 15:25:50.7335|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IUVV3BEO" sending FIN. 
+2017-01-22 15:25:50.7455|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IUVV3BEO" sent FIN with status "0". 
+2017-01-22 15:25:50.7455|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IUVV3BEO" stopped. 
+2017-01-22 15:27:11.0311|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting shutdown 
+2017-01-22 15:27:11.0792|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IUVV3BEP" disconnecting. 
+2017-01-22 15:27:11.0792|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IUVV3BEP" sending FIN. 
+2017-01-22 15:27:11.0912|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IUVV3BEP" sent FIN with status "0". 
+2017-01-22 15:27:11.0912|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22IUVV3BEP" stopped. 
+2017-01-22 15:27:26.2931|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting starting 
+2017-01-22 15:27:26.3841|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting started 
+2017-01-22 15:27:32.0062|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22J0GDSR07" started. 
+2017-01-22 15:27:32.0062|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22J0GDSR08" started. 
+2017-01-22 15:27:32.1033|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:5000/   
+2017-01-22 15:27:32.1363|WebApiFrame.VisitLogMiddleware|INFO|VisitLog:Url: /,
+Headers: [{"Cache-Control":"max-age=0"},{"Connection":"keep-alive"},{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"},{"Accept-Encoding":"gzip, deflate, sdch, br"},{"Accept-Language":"zh-CN,zh;q=0.8"},{"Cookie":"ASP.NET_SessionId=3dej5lyebammie0srsliyopj"},{"Host":"localhost:5000"},{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.59 Safari/537.36 Vivaldi/1.7.725.3"},{"Upgrade-Insecure-Requests":"1"}],
+Method: http,
+RequestBody: ,
+ExcuteStartTime: 0001-01-01 00:00:00.000,
+ExcuteStartTime: 2017-01-22 15:27:32.129 
+2017-01-22 15:27:32.1363|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 60.0849ms 404  
+2017-01-22 15:27:32.1823|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22J0GDSR08" completed keep alive response. 
+2017-01-22 15:28:11.8418|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting shutdown 
+2017-01-22 15:28:11.8798|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22J0GDSR07" disconnecting. 
+2017-01-22 15:28:11.8798|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22J0GDSR08" disconnecting. 
+2017-01-22 15:28:11.8798|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22J0GDSR07" sending FIN. 
+2017-01-22 15:28:11.8878|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22J0GDSR08" sending FIN. 
+2017-01-22 15:28:11.8878|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22J0GDSR07" sent FIN with status "0". 
+2017-01-22 15:28:11.8878|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22J0GDSR08" sent FIN with status "0". 
+2017-01-22 15:28:11.9019|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22J0GDSR07" stopped. 
+2017-01-22 15:28:11.9019|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22J0GDSR08" stopped. 
+2017-01-22 15:28:15.8347|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting starting 
+2017-01-22 15:28:15.9238|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting started 
+2017-01-22 15:28:17.1136|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22J0TS279T" started. 
+2017-01-22 15:28:17.1136|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22J0TS279U" started. 
+2017-01-22 15:28:17.2067|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:5000/   
+2017-01-22 15:28:17.2437|WebApiFrame.VisitLogMiddleware|INFO|VisitLog:Url: /,
+Headers: [{"Cache-Control":"max-age=0"},{"Connection":"keep-alive"},{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"},{"Accept-Encoding":"gzip, deflate, sdch, br"},{"Accept-Language":"zh-CN,zh;q=0.8"},{"Cookie":"ASP.NET_SessionId=3dej5lyebammie0srsliyopj"},{"Host":"localhost:5000"},{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.59 Safari/537.36 Vivaldi/1.7.725.3"},{"Upgrade-Insecure-Requests":"1"}],
+Method: http,
+RequestBody: ,
+ExcuteStartTime: 0001-01-01 00:00:00.000,
+ExcuteEndTime: 2017-01-22 15:28:17.234 
+2017-01-22 15:28:17.2567|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 64.8541ms 404  
+2017-01-22 15:28:17.2907|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22J0TS279U" completed keep alive response. 
+2017-01-22 15:28:45.2578|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22J0TS279T" received FIN. 
+2017-01-22 15:28:45.2698|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22J0TS279T" disconnecting. 
+2017-01-22 15:28:45.2698|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22J0TS279T" sending FIN. 
+2017-01-22 15:28:45.2859|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22J0TS279T" sent FIN with status "0". 
+2017-01-22 15:28:45.2939|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22J0TS279T" stopped. 
+2017-01-22 15:33:38.7707|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22J0TS279U" received FIN. 
+2017-01-22 15:33:38.7707|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22J0TS279U" disconnecting. 
+2017-01-22 15:33:38.7707|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22J0TS279U" sending FIN. 
+2017-01-22 15:33:38.7827|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22J0TS279U" sent FIN with status "0". 
+2017-01-22 15:33:38.7827|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22J0TS279U" stopped. 

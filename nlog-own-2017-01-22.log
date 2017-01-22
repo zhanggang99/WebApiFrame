@@ -1,3 +1,33 @@
 2017-01-22 09:36:10.6295|WebApiFrame.Controllers.UsersController|INFO|  this is a infomation log  
 2017-01-22 09:36:10.6295|WebApiFrame.Controllers.UsersController|WARN|  this is a waring log  
 2017-01-22 09:36:10.6295|WebApiFrame.Controllers.UsersController|ERROR|  this is a error log  
+2017-01-22 15:23:48.6337|WebApiFrame.VisitLogMiddleware|INFO|  VisitLog:Url: /testff,
+Headers: [{"Cache-Control":"max-age=0"},{"Connection":"keep-alive"},{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"},{"Accept-Encoding":"gzip, deflate, sdch, br"},{"Accept-Language":"zh-CN,zh;q=0.8"},{"Cookie":"ASP.NET_SessionId=3dej5lyebammie0srsliyopj"},{"Host":"localhost:5000"},{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.59 Safari/537.36 Vivaldi/1.7.725.3"},{"Upgrade-Insecure-Requests":"1"}],
+Method: http,
+RequestBody: ,
+ExcuteStartTime: 0001-01-01 00:00:00.000,
+ExcuteStartTime: 2017-01-22 15:23:48.629 
+2017-01-22 15:23:52.4855|WebApiFrame.VisitLogMiddleware|INFO|  VisitLog:Url: /,
+Headers: [{"Connection":"keep-alive"},{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"},{"Accept-Encoding":"gzip, deflate, sdch, br"},{"Accept-Language":"zh-CN,zh;q=0.8"},{"Cookie":"ASP.NET_SessionId=3dej5lyebammie0srsliyopj"},{"Host":"localhost:5000"},{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.59 Safari/537.36 Vivaldi/1.7.725.3"},{"Upgrade-Insecure-Requests":"1"}],
+Method: http,
+RequestBody: ,
+ExcuteStartTime: 0001-01-01 00:00:00.000,
+ExcuteStartTime: 2017-01-22 15:23:52.489 
+2017-01-22 15:24:49.5135|WebApiFrame.VisitLogMiddleware|INFO|  VisitLog:Url: /,
+Headers: [{"Cache-Control":"max-age=0"},{"Connection":"keep-alive"},{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"},{"Accept-Encoding":"gzip, deflate, sdch, br"},{"Accept-Language":"zh-CN,zh;q=0.8"},{"Cookie":"ASP.NET_SessionId=3dej5lyebammie0srsliyopj"},{"Host":"localhost:5000"},{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.59 Safari/537.36 Vivaldi/1.7.725.3"},{"Upgrade-Insecure-Requests":"1"}],
+Method: http,
+RequestBody: ,
+ExcuteStartTime: 0001-01-01 00:00:00.000,
+ExcuteStartTime: 2017-01-22 15:24:49.509 
+2017-01-22 15:27:32.1363|WebApiFrame.VisitLogMiddleware|INFO|  VisitLog:Url: /,
+Headers: [{"Cache-Control":"max-age=0"},{"Connection":"keep-alive"},{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"},{"Accept-Encoding":"gzip, deflate, sdch, br"},{"Accept-Language":"zh-CN,zh;q=0.8"},{"Cookie":"ASP.NET_SessionId=3dej5lyebammie0srsliyopj"},{"Host":"localhost:5000"},{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.59 Safari/537.36 Vivaldi/1.7.725.3"},{"Upgrade-Insecure-Requests":"1"}],
+Method: http,
+RequestBody: ,
+ExcuteStartTime: 0001-01-01 00:00:00.000,
+ExcuteStartTime: 2017-01-22 15:27:32.129 
+2017-01-22 15:28:17.2437|WebApiFrame.VisitLogMiddleware|INFO|  VisitLog:Url: /,
+Headers: [{"Cache-Control":"max-age=0"},{"Connection":"keep-alive"},{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"},{"Accept-Encoding":"gzip, deflate, sdch, br"},{"Accept-Language":"zh-CN,zh;q=0.8"},{"Cookie":"ASP.NET_SessionId=3dej5lyebammie0srsliyopj"},{"Host":"localhost:5000"},{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.59 Safari/537.36 Vivaldi/1.7.725.3"},{"Upgrade-Insecure-Requests":"1"}],
+Method: http,
+RequestBody: ,
+ExcuteStartTime: 0001-01-01 00:00:00.000,
+ExcuteEndTime: 2017-01-22 15:28:17.234 

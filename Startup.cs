@@ -18,21 +18,55 @@ namespace WebApiFrame{
             // });
 
             //添加日志支持
-            //loggerFactory.AddConsole(LogLevel.Warning);
-            //loggerFactory.AddDebug();
+            loggerFactory.AddConsole(LogLevel.Warning);
+            loggerFactory.AddDebug();
 
             //使用Filter设置日志级别
             loggerFactory.WithFilter(new FilterLoggerSettings(){
                 {"Microsoft",LogLevel.Warning},
-                {"WebApiFrame",LogLevel.Error}
+                {"WebApiFrame",LogLevel.Information}
             }).AddConsole();
 
             //添加ILog日志支持
             loggerFactory.AddNLog();
-            //添加mvc中间件
-            app.UseMvc();
-        }
+            
+            // //添加自定义中间件
+            // app.Run(async context => {
+            //     await context.Response.WriteAsync("hello world");
+            // });
 
+            //只有Hello World!: Run的这种用法表示注册的此中间件为管道内的最后一个中间件，由它处理完请求后直接返回。
+            //app.Run(async context => {await context.Response.WriteAsync("hello world too");});
+
+            //添加自定义中间件
+            // app.Use(async (context,next) => {
+            //     await context.Response.WriteAsync("hello world 22222");
+            //     await next();
+            // });
+
+            // app.Use(async (context,next)=>{
+            //     await context.Response.WriteAsync("hello world too 22");
+            // });
+
+            //将中间件单独写成独立的类，通过UseMiddleware方法同样可以完成注册
+            // app.UseMiddleware<HelloworldMiddleware>();
+            // app.UseMiddleware<HelloworldTooMiddleware>();
+
+            //Map方法主要通过请求路径和其他自定义条件过滤来指定注册的中间件，看起来更像一个路由
+            //app.Map("/test",Maptest);
+            
+            // 添加自定义中间件
+            app.UseVisitLogger();
+
+            //添加mvc中间件
+            //app.UseMvc();
+
+        }
+        private static void Maptest(IApplicationBuilder app){
+            app.Run(async context =>{
+                await context.Response.WriteAsync("url is "+context.Request.PathBase.ToString());
+            });
+        }
 
     }
 
