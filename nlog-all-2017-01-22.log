@@ -1,0 +1,25 @@
+2017-01-22 09:36:06.6091|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting starting 
+2017-01-22 09:36:06.7029|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting started 
+2017-01-22 09:36:10.2140|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22CS5I849L" started. 
+2017-01-22 09:36:10.2140|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22CS5I849K" started. 
+2017-01-22 09:36:10.2801|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:5000/api/users/1   
+2017-01-22 09:36:10.4387|Microsoft.AspNetCore.Routing.Tree.TreeRouter|DEBUG|Request successfully matched the route with name '' and template 'api/Users/{id}'. 
+2017-01-22 09:36:10.4700|Microsoft.AspNetCore.Mvc.Internal.ActionSelector|DEBUG|Action 'WebApiFrame.Controllers.UsersController.Put (WebApiFrame)' with id '9a4e3f54-a4f3-4bf1-904d-30ce2307b202' did not match the constraint 'Microsoft.AspNetCore.Mvc.Internal.HttpMethodActionConstraint' 
+2017-01-22 09:36:10.4700|Microsoft.AspNetCore.Mvc.Internal.ActionSelector|DEBUG|Action 'WebApiFrame.Controllers.UsersController.Delete (WebApiFrame)' with id '9cc024c4-a65e-430d-9344-c99e231c6c3e' did not match the constraint 'Microsoft.AspNetCore.Mvc.Internal.HttpMethodActionConstraint' 
+2017-01-22 09:36:10.5012|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|DEBUG|Executing action WebApiFrame.Controllers.UsersController.Get (WebApiFrame) 
+2017-01-22 09:36:10.6139|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|INFO|Executing action method WebApiFrame.Controllers.UsersController.Get (WebApiFrame) with arguments (1) - ModelState is Valid 
+2017-01-22 09:36:10.6295|WebApiFrame.Controllers.UsersController|INFO|this is a infomation log  
+2017-01-22 09:36:10.6295|WebApiFrame.Controllers.UsersController|WARN|this is a waring log  
+2017-01-22 09:36:10.6295|WebApiFrame.Controllers.UsersController|ERROR|this is a error log  
+2017-01-22 09:36:10.6451|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|DEBUG|Executed action method WebApiFrame.Controllers.UsersController.Get (WebApiFrame), returned result Microsoft.AspNetCore.Mvc.ObjectResult. 
+2017-01-22 09:36:10.6764|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|DEBUG|No information found on request to perform content negotiation. 
+2017-01-22 09:36:10.6764|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|DEBUG|Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.JsonOutputFormatter' and content type 'application/json' to write the response. 
+2017-01-22 09:36:10.6764|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|INFO|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext. 
+2017-01-22 09:36:10.8704|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|INFO|Executed action WebApiFrame.Controllers.UsersController.Get (WebApiFrame) in 354.165ms 
+2017-01-22 09:36:10.8884|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 608.1418ms 200 application/json; charset=utf-8 
+2017-01-22 09:36:10.9004|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22CS5I849L" completed keep alive response. 
+2017-01-22 09:36:38.2296|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22CS5I849K" received FIN. 
+2017-01-22 09:36:38.2608|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22CS5I849K" disconnecting. 
+2017-01-22 09:36:38.2764|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22CS5I849K" sending FIN. 
+2017-01-22 09:36:38.2921|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22CS5I849K" sent FIN with status "0". 
+2017-01-22 09:36:38.3077|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL22CS5I849K" stopped. 

@@ -1,6 +1,7 @@
 using System;
 using Microsoft.AspNetCore.Mvc;
 using WebApiFrame.Models;
+using Microsoft.Extensions.Logging;
 
 namespace WebApiFrame.Controllers{
 
@@ -8,8 +9,16 @@ namespace WebApiFrame.Controllers{
     [Route("api/[controller]")]
     public class UsersController:Microsoft.AspNetCore.Mvc.Controller
     {
+        private ILogger<UsersController> _logger;
+        public UsersController(ILogger<UsersController> logger){
+            _logger=logger;
+        }
         [HttpGetAttribute("{id}")]
         public IActionResult Get(int id){
+            //演示日志输出
+            _logger.LogInformation("this is a infomation log ");
+            _logger.LogWarning("this is a waring log ");
+            _logger.LogError("this is a error log ");
             var user = new User();
             user.Id=id;
             user.Name="Name:"+id;

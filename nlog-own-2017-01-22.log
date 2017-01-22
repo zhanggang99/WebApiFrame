@@ -1,0 +1,3 @@
+2017-01-22 09:36:10.6295|WebApiFrame.Controllers.UsersController|INFO|  this is a infomation log  
+2017-01-22 09:36:10.6295|WebApiFrame.Controllers.UsersController|WARN|  this is a waring log  
+2017-01-22 09:36:10.6295|WebApiFrame.Controllers.UsersController|ERROR|  this is a error log  
