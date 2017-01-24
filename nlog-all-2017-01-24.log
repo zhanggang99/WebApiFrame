@@ -1,0 +1,47 @@
+2017-01-24 22:24:28.0096|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting starting 
+2017-01-24 22:24:28.1617|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting started 
+2017-01-24 22:24:28.4765|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL24CIQAQRAD" started. 
+2017-01-24 22:24:28.6010|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:5000/   
+2017-01-24 22:24:28.8308|Microsoft.AspNetCore.Routing.RouteBase|DEBUG|Request successfully matched the route with name 'default' and template '{controller=Home}/{action=Index}/{id?}'. 
+2017-01-24 22:24:28.8464|Microsoft.AspNetCore.Mvc.Internal.MvcRouteHandler|DEBUG|No actions matched the current request 
+2017-01-24 22:24:28.8464|Microsoft.AspNetCore.Builder.RouterMiddleware|DEBUG|Request did not match any routes. 
+2017-01-24 22:24:28.8704|WebApiFrame.VisitLogMiddleware|INFO|VisitLog:Url: /,
+Headers: [{"Connection":"Keep-Alive"},{"Accept":"*/*"},{"Accept-Encoding":"gzip, deflate"},{"Accept-Language":"zh-Hans-CN,zh-Hans;q=0.5"},{"Cookie":"__screen_params=2560:1080:2564:960; .ASPXANONYMOUS=gCant5uM1AEkAAAAYTBhMjI5OTktM2FiZS00OWRhLWExMzYtYjczNmQ3OTBiNzNl0; UFWebLoginUserID=wugfa; UFWebLoginPassWD=21218cca77804d2ba1922c33e0151105; UFWebAutoLogin=Yes; UFWebSaveTime=m"},{"Host":"localhost:5000"},{"User-Agent":"Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729)"}],
+Method: http,
+RequestBody: ,
+ExcuteStartTime: 0001-01-01 00:00:00.000,
+ExcuteEndTime: 2017-01-24 22:24:28.846 
+2017-01-24 22:24:28.8864|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 290.0241ms 404  
+2017-01-24 22:24:28.9172|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL24CIQAQRAD" completed keep alive response. 
+2017-01-24 22:25:02.5669|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:5000/home/index   
+2017-01-24 22:25:02.5825|Microsoft.AspNetCore.Routing.RouteBase|DEBUG|Request successfully matched the route with name 'default' and template '{controller=Home}/{action=Index}/{id?}'. 
+2017-01-24 22:25:02.5825|Microsoft.AspNetCore.Mvc.Internal.MvcRouteHandler|DEBUG|No actions matched the current request 
+2017-01-24 22:25:02.5825|Microsoft.AspNetCore.Builder.RouterMiddleware|DEBUG|Request did not match any routes. 
+2017-01-24 22:25:02.5825|WebApiFrame.VisitLogMiddleware|INFO|VisitLog:Url: /home/index,
+Headers: [{"Connection":"Keep-Alive"},{"Accept":"image/gif, image/jpeg, image/pjpeg, application/x-ms-application, application/xaml+xml, application/x-ms-xbap, */*"},{"Accept-Encoding":"gzip, deflate"},{"Accept-Language":"zh-Hans-CN,zh-Hans;q=0.5"},{"Cookie":"__screen_params=2560:1080:2564:960; .ASPXANONYMOUS=gCant5uM1AEkAAAAYTBhMjI5OTktM2FiZS00OWRhLWExMzYtYjczNmQ3OTBiNzNl0; UFWebLoginUserID=wugfa; UFWebLoginPassWD=21218cca77804d2ba1922c33e0151105; UFWebAutoLogin=Yes; UFWebSaveTime=m"},{"Host":"localhost:5000"},{"User-Agent":"Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729)"}],
+Method: http,
+RequestBody: ,
+ExcuteStartTime: 0001-01-01 00:00:00.000,
+ExcuteEndTime: 2017-01-24 22:25:02.582 
+2017-01-24 22:25:02.5981|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 26.6357ms 404  
+2017-01-24 22:25:02.5981|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL24CIQAQRAD" completed keep alive response. 
+2017-01-24 22:25:50.7864|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting starting 
+2017-01-24 22:25:50.9146|Microsoft.AspNetCore.Hosting.Internal.WebHost|DEBUG|Hosting started 
+2017-01-24 22:25:51.0604|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL24CJIUAMF6" started. 
+2017-01-24 22:25:51.1731|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:5000/   
+2017-01-24 22:25:51.3726|Microsoft.AspNetCore.Routing.RouteBase|DEBUG|Request successfully matched the route with name 'default' and template '{controller=Home}/{action=Index}/{id?}'. 
+2017-01-24 22:25:51.3906|Microsoft.AspNetCore.Mvc.Internal.MvcRouteHandler|DEBUG|No actions matched the current request 
+2017-01-24 22:25:51.3906|Microsoft.AspNetCore.Builder.RouterMiddleware|DEBUG|Request did not match any routes. 
+2017-01-24 22:25:51.4097|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 255.4247ms 404  
+2017-01-24 22:25:51.4304|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL24CJIUAMF6" completed keep alive response. 
+2017-01-24 22:26:00.0833|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:5000/Home/index   
+2017-01-24 22:26:00.0833|Microsoft.AspNetCore.Routing.RouteBase|DEBUG|Request successfully matched the route with name 'default' and template '{controller=Home}/{action=Index}/{id?}'. 
+2017-01-24 22:26:00.0990|Microsoft.AspNetCore.Mvc.Internal.MvcRouteHandler|DEBUG|No actions matched the current request 
+2017-01-24 22:26:00.0990|Microsoft.AspNetCore.Builder.RouterMiddleware|DEBUG|Request did not match any routes. 
+2017-01-24 22:26:00.0990|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 16.5966ms 404  
+2017-01-24 22:26:00.0990|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL24CJIUAMF6" completed keep alive response. 
+2017-01-24 22:28:08.4035|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL24CJIUAMF6" received FIN. 
+2017-01-24 22:28:08.4386|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL24CJIUAMF6" disconnecting. 
+2017-01-24 22:28:08.4546|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL24CJIUAMF6" sending FIN. 
+2017-01-24 22:28:08.4656|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL24CJIUAMF6" sent FIN with status "0". 
+2017-01-24 22:28:08.4656|Microsoft.AspNetCore.Server.Kestrel|DEBUG|Connection id "0HL24CJIUAMF6" stopped. 

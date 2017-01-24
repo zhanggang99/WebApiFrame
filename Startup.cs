@@ -8,10 +8,13 @@ using NLog.Extensions.Logging;
 namespace WebApiFrame{
     public class Startup{
 
+        //负责服务配置
         public void ConfigureServices(IServiceCollection services){
             //注入mvc框架
             services.AddMvc();
         }
+
+        //请求管道配置
         public void Configure(IApplicationBuilder app,ILoggerFactory loggerFactory){
             // app.Run(context => {
             //     return context.Response.WriteAsync("Hello world");
@@ -19,16 +22,16 @@ namespace WebApiFrame{
 
             //添加日志支持
             loggerFactory.AddConsole(LogLevel.Warning);
-            loggerFactory.AddDebug();
+            // loggerFactory.AddDebug();
 
-            //使用Filter设置日志级别
-            loggerFactory.WithFilter(new FilterLoggerSettings(){
-                {"Microsoft",LogLevel.Warning},
-                {"WebApiFrame",LogLevel.Information}
-            }).AddConsole();
+            // //使用Filter设置日志级别
+            // loggerFactory.WithFilter(new FilterLoggerSettings(){
+            //     {"Microsoft",LogLevel.Warning},
+            //     {"WebApiFrame",LogLevel.Information}
+            // }).AddConsole();
 
-            //添加ILog日志支持
-            loggerFactory.AddNLog();
+            // //添加ILog日志支持
+            // loggerFactory.AddNLog();
             
             // //添加自定义中间件
             // app.Run(async context => {
@@ -56,17 +59,19 @@ namespace WebApiFrame{
             //app.Map("/test",Maptest);
             
             // 添加自定义中间件
-            app.UseVisitLogger();
+            //app.UseVisitLogger();
 
             //添加mvc中间件
             //app.UseMvc();
+            app.UseMvcWithDefaultRoute();
 
         }
-        private static void Maptest(IApplicationBuilder app){
-            app.Run(async context =>{
-                await context.Response.WriteAsync("url is "+context.Request.PathBase.ToString());
-            });
-        }
+        // private static void Maptest(IApplicationBuilder app){
+        //     app.Run(async context =>{
+        //         await context.Response.WriteAsync("url is "+context.Request.PathBase.ToString());
+        //     });
+        // }
+        
 
     }
 

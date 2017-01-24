@@ -1,0 +1,12 @@
+2017-01-24 22:24:28.8704|WebApiFrame.VisitLogMiddleware|INFO|  VisitLog:Url: /,
+Headers: [{"Connection":"Keep-Alive"},{"Accept":"*/*"},{"Accept-Encoding":"gzip, deflate"},{"Accept-Language":"zh-Hans-CN,zh-Hans;q=0.5"},{"Cookie":"__screen_params=2560:1080:2564:960; .ASPXANONYMOUS=gCant5uM1AEkAAAAYTBhMjI5OTktM2FiZS00OWRhLWExMzYtYjczNmQ3OTBiNzNl0; UFWebLoginUserID=wugfa; UFWebLoginPassWD=21218cca77804d2ba1922c33e0151105; UFWebAutoLogin=Yes; UFWebSaveTime=m"},{"Host":"localhost:5000"},{"User-Agent":"Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729)"}],
+Method: http,
+RequestBody: ,
+ExcuteStartTime: 0001-01-01 00:00:00.000,
+ExcuteEndTime: 2017-01-24 22:24:28.846 
+2017-01-24 22:25:02.5825|WebApiFrame.VisitLogMiddleware|INFO|  VisitLog:Url: /home/index,
+Headers: [{"Connection":"Keep-Alive"},{"Accept":"image/gif, image/jpeg, image/pjpeg, application/x-ms-application, application/xaml+xml, application/x-ms-xbap, */*"},{"Accept-Encoding":"gzip, deflate"},{"Accept-Language":"zh-Hans-CN,zh-Hans;q=0.5"},{"Cookie":"__screen_params=2560:1080:2564:960; .ASPXANONYMOUS=gCant5uM1AEkAAAAYTBhMjI5OTktM2FiZS00OWRhLWExMzYtYjczNmQ3OTBiNzNl0; UFWebLoginUserID=wugfa; UFWebLoginPassWD=21218cca77804d2ba1922c33e0151105; UFWebAutoLogin=Yes; UFWebSaveTime=m"},{"Host":"localhost:5000"},{"User-Agent":"Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729)"}],
+Method: http,
+RequestBody: ,
+ExcuteStartTime: 0001-01-01 00:00:00.000,
+ExcuteEndTime: 2017-01-24 22:25:02.582 

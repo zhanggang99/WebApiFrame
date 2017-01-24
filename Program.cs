@@ -2,6 +2,7 @@
 
 namespace WebApiFrame
 {
+    //应用程序入口
     public class Program
     {
         public static void Main(string[] args)
